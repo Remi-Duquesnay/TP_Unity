@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa09e1fd0efa0514a81d8b90fd956353, type: 3}
+  m_Name: WaveBomber
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 1454815716558067414, guid: c06b4cb8c4429b8439f8bceb4d3fb071, type: 3}
+  enemyCount: 2
+  movePattern: {fileID: 1887577733753326135, guid: db4b23eed697c174e9aac261cf2d29fd, type: 3}
+  enemyInterval: 2
