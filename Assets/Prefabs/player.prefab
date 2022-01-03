@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 89385e986124ca7418239c6d21615e2b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7040e50b7a446b849984a7495353fbf8, type: 3}
   m_Color: {r: 0, g: 0.7607843, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -155,7 +155,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 229be24c7f71c9f49b5cf98f7b3129e2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 07a7186b3362fec419b29d8cb941d3a5, type: 3}
   m_Color: {r: 0, g: 0.7607846, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -238,7 +238,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b9658780eff11f14da312a4dfbb5b65d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f89bf597f4942e043b43ccb2b9c887ae, type: 3}
   m_Color: {r: 0, g: 0.7607843, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -403,6 +403,7 @@ MonoBehaviour:
   projectile: {fileID: 8553718465092995267, guid: d472e6265411a894c9f09d4ce75d2765, type: 3}
   firePeriod: 0.2
   explosionAnim: {fileID: 7476049673192311845, guid: 249b87071ee0d7b41a5cd306fbfdb8dc, type: 3}
+  sceneManager: {fileID: 0}
 --- !u!114 &-6335096419108340430
 MonoBehaviour:
   m_ObjectHideFlags: 0
